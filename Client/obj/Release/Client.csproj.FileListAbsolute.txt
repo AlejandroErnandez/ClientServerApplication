@@ -1,0 +1,14 @@
+D:\Projects\NP\Homework\ClientServerApp\Client\bin\Release\Client.exe.config
+D:\Projects\NP\Homework\ClientServerApp\Client\bin\Release\Client.exe
+D:\Projects\NP\Homework\ClientServerApp\Client\bin\Release\Client.pdb
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.csprojResolveAssemblyReference.cache
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\MainWindow.g.cs
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\App.g.cs
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client_MarkupCompile.cache
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client_MarkupCompile.lref
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\MainWindow.baml
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.g.resources
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.Properties.Resources.resources
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.csproj.GenerateResource.Cache
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.exe
+D:\Projects\NP\Homework\ClientServerApp\Client\obj\Release\Client.pdb

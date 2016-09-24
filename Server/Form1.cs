@@ -44,19 +44,31 @@ namespace Server
 
         void threadRead()
         {
-            TcpClient cl = listener.AcceptTcpClient();
+            while (true)
+            {
+                TcpClient cl = listener.AcceptTcpClient();
 
-            StreamReader sr = new StreamReader(cl.GetStream(), Encoding.Unicode);
-            String str = sr.ReadLine();
+                StreamReader sr = new StreamReader(cl.GetStream(), Encoding.Unicode);
+                String str = sr.ReadLine();
 
-            listBox1.Items.Add("Recieved from: " + cl.Client.RemoteEndPoint.ToString());
-            listBox1.Items.Add(str);
-            cl.Close();
+                listBox1.Items.Add("Recieved from: " + cl.Client.RemoteEndPoint.ToString());
+                listBox1.Items.Add(str);
+                cl.Close();
+            }
         }
+
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
         {
             if (listener != null)
                 listener.Stop();        
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+                if (listener != null)
+                    listener.Stop();
+                
+                this.Close();
         }
     }
 }

@@ -1,0 +1,9 @@
+D:\Projects\NP\Homework\ClientServerApp\Server\bin\Debug\Server.exe.config
+D:\Projects\NP\Homework\ClientServerApp\Server\bin\Debug\Server.exe
+D:\Projects\NP\Homework\ClientServerApp\Server\bin\Debug\Server.pdb
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.Form1.resources
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.exe
+D:\Projects\NP\Homework\ClientServerApp\Server\obj\Debug\Server.pdb
